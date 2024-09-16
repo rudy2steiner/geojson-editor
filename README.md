@@ -1,6 +1,6 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fgeojson.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fgeojson.io?ref=badge_shield)
 
-# geojsoneditor.co
+# geojsoneditor.com
 
 ![](http://i.cloudup.com/kz3BAF7Hnx.png)
 
